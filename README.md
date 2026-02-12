@@ -11,7 +11,7 @@ Os documentos fornecidos consistem em um **material didático técnico** e a **t
 ![Mapa Mental](./midia/mapa-mental.png)
 
 ## 🎥 Vídeo Relacionado
-[Assista ao vídeo explicativo](./midia/Linux.mp4)
+[Assista ao vídeo explicativo](https://youtu.be/Dkl4wa6mzCg)
 
 
 
