@@ -12,5 +12,5 @@ Os documentos fornecidos consistem em um **material didático técnico** e a **t
 
 ## 🎥 Vídeo Relacionado
 Se o arquivo for maior que 100MB, suba no YouTube e cole o link aqui. Se for pequeno:
-[Assista ao vídeo explicativo](./midia/O_Nascimento_do_Linux.mp4)
+[Assista ao vídeo explicativo](./midia/A_História_do_Linux.mp4)
 
