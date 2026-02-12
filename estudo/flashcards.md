@@ -1,4 +1,6 @@
-Em qual laboratório o sistema Unix foi originalmente criado em 1969?,Bell Labs (pertencente à AT&T na época).
+## Pergunta: Em qual laboratório o sistema Unix foi originalmente criado em 1969?
+Resposta: Bell Labs (pertencente à AT&T na época).
+
 Quem foram os dois principais criadores do sistema Unix?,Ken Thompson e Dennis Ritchie.
 Qual linguagem de programação foi desenvolvida por Dennis Ritchie para tornar o Unix portátil entre diferentes arquiteturas?,Linguagem C.
 O que significa o acrônimo recursivo GNU?,GNU is Not Unix (GNU não é Unix).
